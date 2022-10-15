@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasaveiro
 - 👀 I’m interested to find a job as Front End Developer
-- 🌱 I’m currently learning Bootstrap, Javascript, jQuery, Nodejs, Git/Github, SQL, MongoDB and Reactjs
+- 🌱 I’m currently learning Javascript, jQuery, Nodejs, Git/Github, SQL, MongoDB and Reactjs
 - 👨‍💻 I’m programming with HTML, CSS and Bootstrap
 - 📫 How to reach me: Instagram @eng.aveiro
 
