@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div>
   <h1>👋 Hi, I’m Lucas Aveiro</h1>
   <p>I'm a passionate Front End Developer, eager to make cool things happen on the web!</p>
   <p>Here's what I'm up to:</p>
