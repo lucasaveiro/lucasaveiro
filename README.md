@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lucas Aveiro
 - 👀 I’m interested to find a job as Front End Developer
-- 🌱 I’m currently learning Javascript, jQuery, Nodejs, Git/Github, SQL, MongoDB and Reactjs
-- 👨‍💻 I’m programming with HTML, CSS, Bootstrap, Javascript, Nodejs with Express.
+- 🌱 I’m currently learning Javascript, Node and React
+- 👨‍💻 I’m programming using HTML, CSS, EJS, Bootstrap, Javascript, Node and React
+- ⏳ I have some experience in jQuery, Git/Github and MongoDB
 - 📫 How to reach me: Instagram @eng.aveiro
 
 <!---
