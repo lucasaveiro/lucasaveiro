@@ -5,8 +5,8 @@
   <ul>
     <li>👀 Seeking job opportunities as a <strong>Front End Developer</strong></li>
     <li>🌱 Learning <strong>JavaScript, Node, and React</strong></li>
-    <li>👨‍💻 Building projects with <strong>HTML, CSS, EJS, Bootstrap, JavaScript, Node, and React</strong></li>
-    <li>⏳ Some knowledge of <strong>jQuery, Git/GitHub, and MongoDB</strong></li>
+    <li>👨‍💻 Building projects with <strong>HTML, CSS, Bootstrap, JavaScript, Node, and React</strong></li>
+    <li>⏳ Some knowledge of <strong>Git/GitHub, and MongoDB</strong></li>
   </ul>
   <p>Let's connect and build something awesome together!</p>
   <div>
