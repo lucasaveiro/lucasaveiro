@@ -13,9 +13,6 @@
   <hr>
   <p>Let's connect and build something awesome together!</p>
   <div>
-    <a href="https://www.instagram.com/eng.aveiro/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-    </a>
     <a href="https://www.linkedin.com/in/lucas-aveiro-8b061897/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
     </a>
