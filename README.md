@@ -1,24 +1,57 @@
-<div>
-  <h1>I’m Lucas Aveiro</h1>
-  <p>I'm a passionate Full Stack Developer</p>
-  <p>Here's what I'm up to:</p>
-  <ul>
-    <li>👀 Seeking job opportunities as a <strong>Full Stack Developer</strong></li>
-    <li>🌱 Actually learning <strong>Node, React and Web3</strong></li>
-    <li>👨‍💻 Building projects with <strong>HTML, CSS, Bootstrap, JavaScript, Node, and React</strong></li>
-    <li>⏳ Some knowledge of <strong>Git/GitHub, MongoDB and PostgreSQL</strong></li>
-    <li>😍 <strong>Tech and car enthusiast</strong> with a passion for continuous learning and growth</li>
-  </ul>
-  <p>Moved from Administration Manager to a career in tech to follow my passion.</p>
-  <hr>
-  <p>Let's connect and build something awesome together!</p>
-  <div>
-    <a href="https://www.linkedin.com/in/lucas-aveiro-8b061897/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-    </a>
-  </div>
-</div>
+# Lucas N. Aveiro
 
+A passionate and dedicated learner on a journey to become a full-stack web developer. I thrive in environments where I can focus deeply on crafting elegant and efficient solutions. I enjoy the intricacies of both front-end and back-end development and am committed to continuous growth and improvement in this ever-evolving field.
+
+## About Me
+
+I am currently expanding my skillset in full-stack web development, focusing on building robust and scalable web applications. I find satisfaction in the process of problem-solving and the meticulous crafting of code. I value clean, maintainable code and strive for efficiency in my development process. I believe in collaborating thoughtfully and contributing meaningfully to projects, while also appreciating the focused concentration that individual work allows. I am always open to learning new technologies and methodologies that can enhance my ability to deliver high-quality results.
+
+## Skills
+
+### Current Skills
+
+*   **Front-End:**
+    *   HTML5
+    *   CSS3
+    *   JavaScript (ES6+)
+    *   Bootstrap
+    *   jQuery
+    *   EJS (Templating Engine)
+*   **Back-End:**
+    *   Node.js
+    *   Express.js
+*   **Other:**
+    *   Git & Version Control
+    *   RESTful API Design & Consumption
+    
+### Skills in Development
+
+*   **Database:** PostgreSQL, MongoDB
+*   **Security:** Authentication Methods (e.g., OAuth, JWT)
+*   **Front-End Framework:** React.js, Angular
+
+## Projects
+
+*   **Personal Project - RENNT - A tool rent marketplace**
+    *   A platform that clients and companies can register their tools to another users rent it, like Turo does with cars.
+    *   This project is using MERN stack: Mongo, Express, React and Node.
+    *   Users can register his tools and clients can rent it, the platform will show all details about the reservations.
+
+## Learning Journey
+
+I am currently focused on deepening my understanding of:
+
+*   **Database Management:** Mastering PostgreSQL and MongoDB to design and manage efficient and scalable databases.
+*   **Secure Authentication:** Implementing robust authentication methods to ensure secure access and user data protection in web applications.
+*   **Modern Front-End Development:**  Exploring React.js to build dynamic and interactive user interfaces.
+
+## Contact
+
+I welcome opportunities to collaborate on interesting projects or discuss technology. Feel free to reach out to me via:
+
+*   **Email:** lucas.n.aveiro@gmail.com
+
+Thank you for taking the time to learn more about me and my work. I look forward to connecting with you!
 
 
 <!---
