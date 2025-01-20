@@ -1,6 +1,6 @@
 # Lucas N. Aveiro
 
-A passionate and dedicated learner on a journey to become a full-stack web developer. I thrive in environments where I can focus deeply on crafting elegant and efficient solutions. I enjoy the intricacies of both front-end and back-end development and am committed to continuous growth and improvement in this ever-evolving field.
+A learner on a journey to become a full-stack web developer. I thrive in environments where I can focus deeply on crafting elegant and efficient solutions. I enjoy the intricacies of both front-end and back-end development and am committed to continuous growth and improvement in this ever-evolving field.
 
 ### Current Skills
 
