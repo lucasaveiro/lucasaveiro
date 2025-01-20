@@ -2,12 +2,6 @@
 
 A passionate and dedicated learner on a journey to become a full-stack web developer. I thrive in environments where I can focus deeply on crafting elegant and efficient solutions. I enjoy the intricacies of both front-end and back-end development and am committed to continuous growth and improvement in this ever-evolving field.
 
-## About Me
-
-I am currently expanding my skillset in full-stack web development, focusing on building robust and scalable web applications. I find satisfaction in the process of problem-solving and the meticulous crafting of code. I value clean, maintainable code and strive for efficiency in my development process. I believe in collaborating thoughtfully and contributing meaningfully to projects, while also appreciating the focused concentration that individual work allows. I am always open to learning new technologies and methodologies that can enhance my ability to deliver high-quality results.
-
-## Skills
-
 ### Current Skills
 
 *   **Front-End:**
