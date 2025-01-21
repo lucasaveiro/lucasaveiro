@@ -1,6 +1,8 @@
 # Lucas N. Aveiro
 
-A learner on a journey to become a full-stack web developer. I thrive in environments where I can focus deeply on crafting elegant and efficient solutions. I enjoy the intricacies of both front-end and back-end development and am committed to continuous growth and improvement in this ever-evolving field.
+A learner on a journey to become a full-stack web developer. 
+I thrive in environments where I can focus deeply on crafting and efficient solutions. 
+I enjoy the intricacies of both front-end and back-end development and am committed to continuous growth and improvement in this ever-evolving field.
 
 ### Current Skills
 
@@ -18,24 +20,11 @@ A learner on a journey to become a full-stack web developer. I thrive in environ
     *   Git & Version Control
     *   RESTful API Design & Consumption
     
-### Skills in Development
-
-*   **Database:** PostgreSQL, MongoDB
-*   **Security:** Authentication Methods (e.g., OAuth, JWT)
-*   **Front-End Framework:** React.js, Angular
-
-## Projects
-
-*   **Personal Project - RENNT - A tool rent marketplace**
-    *   A platform that clients and companies can register their tools to another users rent it, like Turo does with cars.
-    *   This project is using MERN stack: Mongo, Express, React and Node.
-    *   Users can register his tools and clients can rent it, the platform will show all details about the reservations.
-
 ## Learning Journey
 
 I am currently focused on deepening my understanding of:
 
-*   **Database Management:** Mastering PostgreSQL and MongoDB to design and manage efficient and scalable databases.
+*   **Database Management:** Mastering PostgreSQL to design and manage efficient and scalable databases.
 *   **Secure Authentication:** Implementing robust authentication methods to ensure secure access and user data protection in web applications.
 *   **Modern Front-End Development:**  Exploring React.js to build dynamic and interactive user interfaces.
 
